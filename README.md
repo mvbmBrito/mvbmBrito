@@ -3,7 +3,9 @@ Hello, my name is Miguel and I've just finished my degree in computer engineerin
 
 ### ⚙️ Technical Skills
 Backend: JAVA, PYTHON, SCALA
+
 Frontend: HTML, CSS
+
 Database: MySQL, MongoDB
 
 ### 💼 Professional opportunities
