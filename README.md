@@ -1,4 +1,4 @@
-## 👋 About me
+### 👋 About me
 Hello, my name is Miguel and I've just finished my degree in computer engineering. I consider myself to be a sociable, responsible person with a great desire to learn and work.
 
 ⚙️ Technical Skills
